@@ -18,9 +18,6 @@
             "email": "gunnarlium@gmail.com"
         }
     ],
-    "require": {
-        "symfony/framework-bundle": "2.*"
-    },
     "require-dev": {
         "phpunit/phpunit": "3.7.*",
         "kriswallsmith/buzz": "0.*",
